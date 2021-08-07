@@ -1,0 +1,2 @@
+give @p minecraft:horse_spawn_egg{EntityTag:{NoAI:1b,Tame:1b,Tags:["hdvHorse"],SaddleItem:{id:"minecraft:saddle",Count:1b}}} 1
+#give @p minecraft:horse_spawn_egg{EntityTag:{Tame:1b,Tags:["hdvHorse"],SaddleItem:{id:"minecraft:saddle",Count:1b}}} 1
